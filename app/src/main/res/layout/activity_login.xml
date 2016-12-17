@@ -29,10 +29,10 @@
         android:gravity="center"
         />
 
-    <Button android:id="@+id/btSubmit"
+    <Button android:id="@+id/btLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="submit"
+        android:text="login"
         android:textSize="30dp"
         />
 
